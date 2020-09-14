@@ -1,2 +1,2 @@
-# ms186878.github.com
+# ms186878.github.io
 this is my space for a class website.
